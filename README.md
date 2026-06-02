@@ -7,7 +7,7 @@ A RESTful backend application for managing jobs, employers, and applicants.
 * Node.js
 * Express.js
 * MongoDB
-* Mongoose
+* compass
 * JWT Authentication
 * bcryptjs
 * Swagger UI
