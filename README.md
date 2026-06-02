@@ -9,6 +9,7 @@ A RESTful backend application for managing jobs, employers, and applicants.
 * MongoDB
 * compass
 * JWT Authentication
+* RBAC
 * bcryptjs
 * Swagger UI
 * Postman
@@ -33,7 +34,7 @@ src/
 ├── middleware/
 ├── config/
 ├── services/
-└── app.js
+└── index.js
 ```
 
 ## ⚙️ Installation
